@@ -1,4 +1,4 @@
 pynang
 ======
 
-The python version of PINANG.  PINANG Ys Not Amber, Namd, Gromacs.
+The python version of PINANG.  PYNANG Ys Not Amber, Namd, Gromacs.
