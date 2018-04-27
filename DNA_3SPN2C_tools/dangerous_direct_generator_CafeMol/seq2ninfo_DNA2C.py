@@ -232,7 +232,7 @@ def main(DNA_sequence_file_name, flag_phosphate_5, flag_infinite_DNA):
                     b2 = dna_particles[2]
                     dist = bond_bdna["SP"][b1 + b2]
                     j = i + 1
-                    bonds.append((j, 3, dist, bond_force_constant))
+                    bonds.append((j, 1, dist, bond_force_constant))
         return bonds[:]
     def gen_angle_info(dna_particles):
         angles = []
