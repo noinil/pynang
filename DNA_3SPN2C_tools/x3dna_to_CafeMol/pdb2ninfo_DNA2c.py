@@ -211,7 +211,7 @@ def main(PDB_name, flag_head_phos, flag_psf_output):
     dna_bnd_list = [[], []]
     dna_ang_list = [[], []]
     dna_dih_list = [[], []]
-    for j in range(2):          # j =                         = 0: chain A, j = = 1: chain B
+    for j in range(2):          # j == 0: chain A, j == 1: chain B
         cg_dna_p_num     = cg_dna_a_p_num     if j == 0 else cg_dna_b_p_num
         cg_dna_coors     = cg_dna_a_coors     if j == 0 else cg_dna_b_coors
         cg_dna_p_ID      = cg_dna_a_p_ID      if j == 0 else cg_dna_b_p_ID
