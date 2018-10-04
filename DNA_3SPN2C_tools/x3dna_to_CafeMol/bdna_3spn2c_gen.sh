@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-PYNANG_BIN_PATH=/Users/noinil/Workspace/pynang/DNA_3SPN2C_tools
+PYNANG_BIN_PATH=/Users/noinil/Workspace/pynang/DNA_3SPN2C_tools/x3dna_to_CafeMol
 export PATH=$PATH:/Users/noinil/Workspace/DNA_3spn2c_input_file_gen/downloads/x3dna-v2.3/bin
 export X3DNA=/Users/noinil/Workspace/DNA_3spn2c_input_file_gen/downloads/x3dna-v2.3
 
