@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-PYNANG_BIN_PATH=/Users/noinil/Workspace/pynang/DNA_3SPN2C_tools/x3dna_to_CafeMol
-export PATH=$PATH:/Users/noinil/Workspace/DNA_3spn2c_input_file_gen/downloads/x3dna-v2.3/bin
-export X3DNA=/Users/noinil/Workspace/DNA_3spn2c_input_file_gen/downloads/x3dna-v2.3
+PYNANG_BIN_PATH=/home/ctan/Workspace/pynang/DNA_3SPN2C_tools/x3dna_to_CafeMol
+export PATH=$PATH:/home/ctan/Workspace/x3dna-v2.4/bin
+export X3DNA=/home/ctan/Workspace/x3dna-v2.4
 
 # This tool is originally built by de Pablo's group and modified to generate
 # input files for CafeMol.
